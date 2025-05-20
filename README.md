@@ -9,7 +9,7 @@ The Spotify Music Analysis Project using Power BI is designed to provide deep in
 ### 3) Identify dominant musical characteristics influencing listener preferences.
 ### 4) Explore streaming trends over time, helping artists and marketers optimize their strategies.
 
-## Key Findings
+## Key Findings:
 ### 1) Total Artists: 
 It is observed that, for the given dataset, there are 664 artists present on Spotify.
 ### 2) Average BPM: 
