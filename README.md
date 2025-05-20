@@ -22,3 +22,5 @@ Spotify's dataset shows 521 major and 381 minor mode tracks, indicating a prefer
 ### 9) Top 10 Tracks of All Time
 ### 10) Artists with the Highest Number of Tracks: 
 This analysis identifies artists with the most tracks across various musical characteristics (such as danceability, energy, and instrumentalness) for each year.
+
+![Spotify Music Analysis](https://github.com/user-attachments/assets/1c71a51b-3629-4cc6-8c04-db7f5d3cdf8e)
