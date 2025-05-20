@@ -24,3 +24,8 @@ Spotify's dataset shows 521 major and 381 minor mode tracks, indicating a prefer
 This analysis identifies artists with the most tracks across various musical characteristics (such as danceability, energy, and instrumentalness) for each year.
 
 ![Spotify Music Analysis](https://github.com/user-attachments/assets/1c71a51b-3629-4cc6-8c04-db7f5d3cdf8e)
+
+![Screenshot 2025-05-20 154820](https://github.com/user-attachments/assets/0c3e9811-5a6f-4009-9b07-54df9d96d3c7)
+
+![Screenshot 2025-05-20 154904](https://github.com/user-attachments/assets/5b465226-2aa5-40b7-951e-9d200575137f)
+
