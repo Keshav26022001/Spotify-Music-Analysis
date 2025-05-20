@@ -3,7 +3,7 @@ Power BI Data Analysis Project
 ## Description:
 The Spotify Music Analysis Project using Power BI is designed to provide deep insights into music trends, streaming patterns, and song popularity. By leveraging Power BI's powerful data visualization capabilities, this project helps users analyze various aspects of Spotify's music data.
 ## Objective:
-#### The Spotify Music Analysis Project aims to provide data-driven insights into music streaming trends, artist performance, and song characteristics. Using Power BI, this project visualizes key aspects of Spotify's music data, enabling users to:
+The Spotify Music Analysis Project aims to provide data-driven insights into music streaming trends, artist performance, and song characteristics. Using Power BI, this project visualizes key aspects of Spotify's music data, enabling users to:
 1) Understand global music consumption patterns.
 2) Analyze artist popularity and track performance.
 3) Identify dominant musical characteristics influencing listener preferences.
